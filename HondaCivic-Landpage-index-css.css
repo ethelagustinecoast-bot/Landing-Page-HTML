@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- External CSS -->
+  <link rel="stylesheet" href="styles.css">
+  
+ 
+  <style>
+    
+    .internal-highlight:hover {
+      opacity: 0.8;
+      cursor: pointer;
+    }
+  </style>
+<header>
+  <p>HONDA PHILIPPINES</p>
+  <nav aria-label="Main">
+    <ul>
+      <li><a href="#features">Features</a></li>
+      <li><a href="#specs">Specs</a></li>
+      <li><a href="#testdrive">Test Drive</a></li>
+    </ul>
+  </nav>
+</header>
+<main>
+  <section>
+  
+    <h1 style="text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Refined. Turbo charged. Ready.</h1>
+    <p>A sedan that pairs a turbocharged engine with the full Honda
+       Sensing safety suite, standard across every variant.</p>
+    <a href="#testdrive">Book a test drive</a>
+    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk8BDg4OExETJhUVJk81LTVPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT//AABEIAI0A9gMBIgACEQEDEQH/xAAbAAEAAQUBAAAAAAAAAAAAAAAABAECAwUGB//EAEQQAAEDAgMEBgcFBgQHAQAAAAEAAgMEEQUSIQYxQVETFCJhcZEHMkKBobHRFiNSwfAVM1NygpJiosLhNENkg5Oy8ST/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEBAQEBAQAAAAAAAAAAAAAAEQEhAjH/2gAMAwEAAhEDEQA/APTkREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQERWve1jHPe4Na0XJJsAguUWrr6SjA61UMiLtwJ1PgN5XKY3tiXZocGLco0dVuFx/QOPidPFc3HBWYhI+UFwD/AFppXXL/AMz8kSu9m2rwiEHNU68g0n5aLXz7eYXHfIJn/wBH+65l2D0kUbn1U0kgaCXG+UD9eK5OolY6d7ohkjv2Wk3sPehXoc3pDph6kE/+UfVQ5PSMR6sD/wCoj6LiWxSiN0k1LIWbw4gtAUh2F0ssEckGIxte9t+jltobbrhErpX+kSc+rFb3lR3ekGtPq3B8T9Vxh0JHLRUtyQrsft9i5daLK7TjdTodrtoC1rpn0lOCLtDg57iOeULmsIpA1rqp4D2ttlAHrOO4ea2RpqXp3dZxZrZSe21sdzfxuqVvY9scWb681M8d1I4f61Mp9uXl2WaKBx/w5m/VaRmEU01JLNSVjp3Ri5bay072iKoa83AJuSPiivSKTa6gmIbKHRk8iHfDf8Fu6arp6ppdTzMktvAOo8RwXBnZ6KSIOiqXHMLjOwEEFQ5KfEMJkbI1+Wxswh3Z8O5Qr09FyGC7XNlyw4g3I69g/v8A1+iusjkZIwPY4OadxCKvREQEREBERAREQEREBFQuABJOgWF9ZTx+tK33a/JB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"
+         alt="Honda Civic sedan, front three-quarter view">
+    <img src="data:image/jpeg;base64,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"
+         alt="Honda Civic sedan, front three-quarter view">
+</section>
+  <section id="features">
+  <h2>Why drivers choose the Civic</h2>
+  <div>
+    <div>
+      <h3>1.5L VTEC Turbo</h3>
+      <p>Tuned for smooth power delivery in city and highway driving.</p>
+    </div>
+    <div>
+      <h3>Honda Sensing, standard</h3>
+      <p>Collision mitigation braking and lane keeping on every variant.</p>
+    </div>
+  </div>
+</section>
+<section id="specs">
+  <h2>Specifications</h2>
+  <table border="1">
+    <caption>Honda Civic — publicly listed specifications</caption>
+    <thead>
+      <tr>
+        <th scope="col">Part</th>
+        <th scope="col">Detail</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>Engine</td><td>1.5L VTEC Turbo</td></tr>
+      <tr><td>Transmission</td><td>CVT</td></tr>
+      <tr><td>Length</td><td>4,678 mm</td></tr>
+    </tbody>
+  </table>
+</section>
+<section id="testdrive">
+  <h2>Book a test drive</h2>
+  <form action="/submit-testdrive" method="post">
+
+    <p>
+      <label for="fullname">Full name</label><br>
+      <input type="text" id="fullname" name="fullname" required>
+    </p>
+
+    <p>
+      <label for="email">Email address</label><br>
+      <input type="email" id="email" name="email" required>
+    </p>
+
+    <p>
+      <label for="dealer">Nearest Honda dealer</label><br>
+      <select id="dealer" name="dealer">
+        <option value="Pangasinan">Honda Pangasinan</option>
+        <option value="Dagupan">Honda Dagupan</option>
+        <option value="LA Union">Honda La Union</option>
+        <option value="Nueva Ecija">Honda Nueva Ecija</option>
+      </select>
+    </p>
+
+    <fieldset>
+      <legend>Variant</legend>
+      <input type="radio" id="variant-v" name="variant" value="v-turbo" checked>
+      <label for="variant-v">V Turbo CVT Honda Sensing</label><br>
+
+      <input type="radio" id="variant-rs" name="variant" value="rs-turbo">
+      <label for="variant-rs">RS Turbo CVT Honda Sensing</label>
+    </fieldset>
+
+    <p>
+      <button type="submit">Submit request</button>
+    </p>
+
+  </form>
+</section>
+</main>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Honda Civic - Honda Philippines </title>
+</head>
+<footer>
+  <p><strong>Student made, built as an HTML learning activity.</strong></p>
+  <p>Not affiliated with Honda Cars Philippines Inc. or Honda Motor Co., Ltd.</p>
+  </p>Message me via Email:<strong><strong> ethel.agustin.ecoast@panpacificu.edu.ph<strong> </p> 
+</footer>
+</html>
